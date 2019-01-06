@@ -1,0 +1,9 @@
+[package]
+name = "snake-rust"
+version = "0.1.0"
+authors = ["Alex Lai <x7lai@uwaterloo.ca>"]
+edition = "2018"
+
+[dependencies]
+ncurses = "5.98.0"
+rand = "0.6"
